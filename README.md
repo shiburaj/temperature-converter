@@ -2,7 +2,7 @@
 
 A super simple Temperature converter app designed using Tailwind CSS library.
 
-[DEMO](https://github.com/shiburaj/temperature-converter)
+[DEMO](https://shiburaj.github.io/temperature-converter/)
 
 ### Libraries used
 - Tailwind CSS
